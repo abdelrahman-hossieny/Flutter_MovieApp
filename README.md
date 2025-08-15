@@ -1,16 +1,42 @@
-# movies
+#  Movie Catalog App
 
-A new Flutter project.
+ simple movie catalog application built with Flutter. Browse movies, view details, and save your favorites to a personal watchlist.
 
-## Getting Started
+##  Features
 
-This project is a starting point for a Flutter application.
+- **Browse Movies**: Discover a wide collection of movies with beautiful poster displays
+- **Featured Movies**: Horizontal scrolling section for highlighted films
+- **Movie Details**: Detailed view with movie information, ratings, and descriptions
+- **Bookmark System**: Save movies to your personal watchlist
+- **Dark Theme**: Modern dark UI design for better viewing experience
 
-A few resources to get you started if this is your first Flutter project:
+##  Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** - UI framework
+- **Dart** - Programming language
+- **Provider** - State management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 📁 Project Structure
+
+```
+lib/
+├── controllers/
+│   └── bookmark_controller.dart
+├── helpers/
+│   └── themes/
+│       └── app_colors.dart
+├── models/
+│   └── movie_model.dart
+├── views/
+│   ├── screens/
+│   │   ├── home_screen.dart
+│   │   ├── movie_details_screen.dart
+│   │   ├── watch_list_screen.dart
+│   │   └── wrapper_screen.dart
+│   └── widgets/
+│       ├── featured_movie_item_widget.dart
+│   │   ├── grid_movie_item_widget.dart
+│   │   └── list_movie_item_widget.dart
+└── main.dart
+```
