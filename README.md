@@ -22,6 +22,7 @@
   <img src="screenshots/Home_Screen.jpeg" width="250" alt="Home Screen"/>
   <img src="screenshots/Detailed_Screen.jpeg" width="250" alt="Movie Details"/>
   <img src="screenshots/Bookmarked_Screen.jpeg" width="250" alt="Watchlist"/>
+  <img src="screenshots/demo.gif" width="250" alt="App Demo"/>
 </div>
 
 ## 📁 Project Structure
