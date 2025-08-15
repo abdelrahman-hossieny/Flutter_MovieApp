@@ -21,7 +21,7 @@
 <div align="center">
   <img src="screenshots/Home_Screen.jpeg" width="250" alt="Home Screen"/>
   <img src="screenshots/Detailed_Screen.jpeg" width="250" alt="Movie Details"/>
-  <img src="Bookmarked_Screen.jpeg" width="250" alt="Watchlist"/>
+  <img src="screenshots/Bookmarked_Screen.jpeg" width="250" alt="Watchlist"/>
 </div>
 
 ## 📁 Project Structure
